@@ -1,8 +1,6 @@
 # chat-bot-template-py
 
-[![Discord](https://dcbadge.vercel.app/api/server/nhvCbCtKV?style=flat)](https://discord.gg/6PzXDgEjG5)
-[![Twitter](https://img.shields.io/twitter/follow/ech0)](https://twitter.com/ech0)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?logo=substack)](https://ech0.substack.com/)
+[![Twitter](https://img.shields.io/twitter/follow/ech0_ai)](https://twitter.com/ech0_ai)
 
 # Introduction
 
